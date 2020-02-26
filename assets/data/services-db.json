@@ -1,0 +1,35 @@
+[
+  {
+    "serviceType": "Logo Designing",
+    "projectDsc": "We desgin all kinds of logo for Corporate, Personel and Branding",
+    "imgUrl": "assets/images/logo-design.jpg",
+    "project": {
+      "name": "ABC",
+      "technology": "Static",
+      "website": "www.abc.com",
+      "duration": "2 month"
+    }
+  },
+  {
+    "serviceType": "Web Designing",
+    "projectDsc": "We done all kinds of website designing and per client requirement as well as re-designing of your existing website.",
+    "imgUrl": "assets/images/web-designing.jpg",
+    "project": {
+      "name": "web",
+      "technology": "Angular",
+      "website": "www.angular.com",
+      "duration": "6 month"
+    }
+  },
+  {
+    "serviceType": "Web Development",
+    "projectDsc": "We develop websites on diffrent platforms like php, wordpress, joomla",
+    "imgUrl": "assets/images/website-development.jpg",
+    "project": {
+      "name": "web",
+      "technology": "PHP",
+      "website": "www.php.com",
+      "duration": "6 month"
+    }
+  }
+]
