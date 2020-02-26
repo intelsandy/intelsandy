@@ -1,0 +1,2 @@
+# intelsandy
+first angular app
